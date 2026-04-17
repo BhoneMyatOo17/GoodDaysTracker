@@ -19,3 +19,20 @@ button:active {
   box-shadow: none;
   transform: translate(0, 4px);
 }
+
+.primarybtn {
+  align-items: center;
+  color: #ffffff;
+  font-size: 18px;
+  background: #53CBF3;
+  border: none !important;
+  padding: 12px 20px;
+  box-shadow: 0 4px 0 #5478FF;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.primarybtn:active {
+  box-shadow: none;
+  transform: translate(0, 4px);
+}
