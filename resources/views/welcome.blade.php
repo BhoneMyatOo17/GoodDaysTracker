@@ -80,31 +80,70 @@
                 class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
                 9</div>
             <div
-                class="w-8 h-8 bg-blue-100 border-2 border-blue-300 rounded-md text-xs pt-1 hover:scale-110 transition-transform">
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
                 10</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1 cursor-not-allowed">11</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">12</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">13</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">14</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">15</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">16</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">17</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">18</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">19</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">20</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">21</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">22</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">23</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">24</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">25</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">26</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">27</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">28</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">29</div>
-            <div class="w-8 h-8 bg-gray-200 rounded-md text-xs p-1">30</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                11</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                12</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                13</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                14</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                15</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                16</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                17</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                18</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                19</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                20</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                21</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                22</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                23</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                24</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                25</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                26</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                27</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                28</div>
+            <div
+                class="w-8 h-8 bg-green-300 border-2 border-green-300 rounded-md text-xs p-1 hover:scale-110 transition-transform">
+                29</div>
+            <div
+                class="w-8 h-8 bg-blue-100 border-2 border-blue-300 rounded-md text-xs pt-1 hover:scale-110 transition-transform">
+                30</div>
         </div>
     </div>
-    <button>Press</button>
 </body>
 
 </html>
